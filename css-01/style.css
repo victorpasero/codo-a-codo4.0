@@ -1,0 +1,11 @@
+p { /* 1 */
+    color: red !important;
+}
+
+.destacado { /* 10 */
+    color: green;
+}
+
+#parrafo-footer { /* 100 */
+    color: blue;
+}

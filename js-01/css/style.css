@@ -1,0 +1,12 @@
+body {
+    background-color: teal;
+}
+
+.col {
+    width: 100px;
+    flex-basis: 100px;
+    height: 100px;
+}
+.col-4 {
+    padding: 3em;
+}

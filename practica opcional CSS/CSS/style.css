@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+header {
+    background-color: darkmagenta;
+    color: white;
+}
+main h2 {
+    color: orange;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+footer {
+    background-color: darkmagenta;
+    color: white;
+}
+footer small {
+    font-family: 'Patrick Hand';
+}
+
+section:nth-child(1) p:nth-child(3) {
+    font-weight: bold;
+}
+section:nth-child(2) p:nth-child(4) {
+    font-family: Roboto;
+    
+}

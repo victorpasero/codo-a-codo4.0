@@ -1,0 +1,14 @@
+DOM
+
+getElementBy... ----> no tiene forEach
+id
+class
+tag
+
+
+
+si son varios me trae un httpcollection, que es similar a un array
+
+QuerySelector  ----> se usa mas que getelement
+
+me trae un NodeList, que es tambien como un array pero mejor que el httpcollection.

@@ -1,0 +1,11 @@
+
+body {
+     margin: 0;
+}
+
+p {
+    background-color: blue;
+    color: white;
+    width: 50%;
+    height: 25vh;
+}
